@@ -135,6 +135,9 @@ Now you go to the web browser using your EC2 public ip address ,you will be able
 
 ### We need to create database and new user for wordpress specific 
 
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-22%20at%2012.08.47%20AM.png"/>
+
+
 ### Create new user in mysql database to handle wordpress stuff .
    
    A. Login to mysql 
