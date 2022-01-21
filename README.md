@@ -170,3 +170,9 @@ Now you go to the web browser using your EC2 public ip address ,you will be able
        grant all privileges on wordpress.* to "wpadmin"@"%";
       
  <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%2011.57.03%20PM.png"/>
+ 
+ 
+ ### Now just fill the database and user creds and enter submit button 
+ 
+ <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-22%20at%2012.12.05%20AM.png"/>
+ 
