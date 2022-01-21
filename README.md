@@ -29,17 +29,17 @@ https://github.com/harsh6768/deploy-in-ec2
   
   Optional Commands to start,restart,stop and check the status of Apache2
   
-        sudo systemctl start apache2
-        
-        sudo systemctl restart apache2
-        
-        sudo systemctl stop apache2
-        
-        sudo systemctl status apache2
+     sudo systemctl start apache2
+
+     sudo systemctl restart apache2
+
+     sudo systemctl stop apache2
+
+     sudo systemctl status apache2
   
   Run bellow command required/optional 
   
-     sudo systemctl enable apache2
+    sudo systemctl enable apache2
       
  
  ##### It will keep apache service running even if you reboot the EC2 instance machine
@@ -49,11 +49,11 @@ https://github.com/harsh6768/deploy-in-ec2
   ### Step B. Install MySQL database.
   
   
-       sudo apt install mysql-server
-       
-       or 
-       
-       sudo apt-get install mysql-server
+    sudo apt install mysql-server
+
+    or 
+
+    sudo apt-get install mysql-server
         
      
  <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%205.26.16%20PM.png"/>
@@ -62,7 +62,7 @@ https://github.com/harsh6768/deploy-in-ec2
           
   ### MYSQL SECURE INSTALLATION
         
-           sudo mysql_secure_installation
+         sudo mysql_secure_installation
               
  
  <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%206.36.13%20PM.png"/>
