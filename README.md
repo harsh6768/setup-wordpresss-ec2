@@ -12,8 +12,15 @@ https://github.com/harsh6768/deploy-in-ec2
    
    ### Step A. Install APACHE 
    
-          sudo apt install apache2 -y 
+        sudo apt install apache2 -y 
           
+  
+  
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%204.49.38%20PM.png"/>
+          
+       
+       
+       
           
           
        
