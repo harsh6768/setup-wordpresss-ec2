@@ -42,7 +42,7 @@ https://github.com/harsh6768/deploy-in-ec2
      sudo systemctl enable apache2
       
  
- It will keep apache service running even if you reboot the EC2 instance machine
+ ##### It will keep apache service running even if you reboot the EC2 instance machine
   
   
        
