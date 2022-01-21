@@ -132,3 +132,29 @@ Now you go to the web browser using your EC2 public ip address ,you will be able
 
 <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%2011.30.13%20PM.png"/>
     
+
+### We need to create database and new user for wordpress specific 
+
+### Create new user in mysql database to handle wordpress stuff .
+   
+   A. Login to mysql 
+   
+      mysql -u root -p 
+  
+  B. create new database 
+  
+      create database wordpress;
+      
+
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%2011.56.57%20PM.png"/>
+      
+      
+  C. create new user to handle wordpress database.
+  
+     create user "wpadmin"@"%" identified by "786Hh@786";      //password policy was medium to I need to enter the mixed password
+     
+  D. Grant the permission to the created user 
+  
+     grant all privileges on wordpress.* to "wpadmin"@"%";
+     
+ <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%2011.57.03%20PM.png"/>
