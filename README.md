@@ -148,13 +148,22 @@ Now you go to the web browser using your EC2 public ip address ,you will be able
 
 <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%2011.56.57%20PM.png"/>
       
+  C. You can see the Password policy in mysql ,
+  
+     this option  you select while mysql_secure_installation part , as I have selected the medium policy , I can not enter the normal password  
+     
+         SHOW VARIABLES LIKE 'validate_password%';
+     
+     Follow below stack overflow link to modify the password policy 
+     
+     https://stackoverflow.com/questions/43094726/your-password-does-not-satisfy-the-current-policy-requirements
+     
+  D. create new user to handle wordpress database.
+  
+       create user "wpadmin"@"%" identified by "786Hh@786";      //password policy was medium to I need to enter the mixed password
+     
+  E. Grant the permission to the created user 
+  
+       grant all privileges on wordpress.* to "wpadmin"@"%";
       
-  C. create new user to handle wordpress database.
-  
-     create user "wpadmin"@"%" identified by "786Hh@786";      //password policy was medium to I need to enter the mixed password
-     
-  D. Grant the permission to the created user 
-  
-     grant all privileges on wordpress.* to "wpadmin"@"%";
-     
  <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%2011.57.03%20PM.png"/>
