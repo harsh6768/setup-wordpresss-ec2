@@ -25,6 +25,14 @@ https://github.com/harsh6768/deploy-in-ec2
   #### You can copy the PUBLIC_IP of EC2 Instance  and make sure you open the HTTP port 80 in In-Bound Security Group.
         
 <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%206.07.25%20PM.png"/>  
+
+  
+  Commands to start,restart,stop and check the status of Apache2
+  
+           sudo systemctl start apache2
+           sudo systemctl restart apache2
+           sudo systemctl stop apache2
+           sudo systemctl status apache2
           
        
   ### Step B. Install MySQL database.
