@@ -128,6 +128,7 @@ You have copied all the data of wordpress It you see the apache server's default
 
       sudo rm -rf index.html 
     
+Now you go to the web browser using your EC2 public ip address ,you will be able to see the wordpress setup starting page
 
 <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%2011.30.13%20PM.png"/>
     
