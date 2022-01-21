@@ -183,7 +183,10 @@ Now you go to the web browser using your EC2 public ip address ,you will be able
  
  
  <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-22%20at%2012.30.18%20AM.png"/>
- <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-22%20at%2012.12.33%20AM.png"/>
+ 
+ <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-22%20at%2012.30.46%20AM.png"/>
+ 
  <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-22%20at%2012.30.58%20AM.png"/>
+ 
  <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-22%20at%2012.31.13%20AM.png"/>
  
