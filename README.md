@@ -78,4 +78,4 @@ https://github.com/harsh6768/deploy-in-ec2
       sudo apt install php php-mysql php-gd php-cli php-common
        
        
-<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%206.36.13%20PM.png"/>
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%206.51.46%20PM.png"/>
