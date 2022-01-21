@@ -16,11 +16,15 @@ https://github.com/harsh6768/deploy-in-ec2
         
         or 
         
-        sudo apt-get install apache2 -y
-          
+        sudo apt-get install apache2 -y 
   
   
 <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%204.49.38%20PM.png"/>
+
+
+   You can copy the PUBLIC_IP of EC2 Instance 
+        
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%206.07.25%20PM.png"/>  
           
        
   ### Step B. Install MySQL database.
