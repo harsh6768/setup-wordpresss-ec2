@@ -119,3 +119,11 @@ Run below command to download wget and unzip to donwload wordpress and unzip it.
 
 <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%2011.15.11%20PM.png"/>
 
+
+You have copied all the data of wordpress It you see the apache server's default page.
+
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%206.07.25%20PM.png"/>  
+
+### You need to delete index.html  so that you can see the wordpress 
+
+
