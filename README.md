@@ -94,3 +94,8 @@ https://wordpress.org/download/
 Double click or right click on download button to get the option and copy the copy link address
 
 
+Run below command to download wget and unzip to donwload wordpress and unzip it.
+
+       sudo apt install wget unzip -y
+
+
