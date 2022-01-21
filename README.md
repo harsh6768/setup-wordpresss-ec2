@@ -22,7 +22,7 @@ https://github.com/harsh6768/deploy-in-ec2
 <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%204.49.38%20PM.png"/>
 
 
-  #### You can copy the PUBLIC_IP of EC2 Instance  and make sure you open the HTTP port 80 in Security Group.
+  #### You can copy the PUBLIC_IP of EC2 Instance  and make sure you open the HTTP port 80 in In-Bound Security Group.
         
 <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%206.07.25%20PM.png"/>  
           
