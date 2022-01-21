@@ -27,13 +27,23 @@ https://github.com/harsh6768/deploy-in-ec2
 <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%206.07.25%20PM.png"/>  
 
   
-  Commands to start,restart,stop and check the status of Apache2
+  Optional Commands to start,restart,stop and check the status of Apache2
   
-           sudo systemctl start apache2
-           sudo systemctl restart apache2
-           sudo systemctl stop apache2
-           sudo systemctl status apache2
-          
+        sudo systemctl start apache2
+        
+        sudo systemctl restart apache2
+        
+        sudo systemctl stop apache2
+        
+        sudo systemctl status apache2
+  
+  Run bellow command required/optional 
+  
+       sudo systemctl enable apache2
+      
+      It will keep apache service running even if you reboot the EC2 instance machine
+  
+  
        
   ### Step B. Install MySQL database.
   
