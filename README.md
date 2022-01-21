@@ -97,5 +97,12 @@ Double click or right click on download button to get the option and copy the co
 Run below command to download wget and unzip to donwload wordpress and unzip it.
 
        sudo apt install wget unzip -y
+       
+       sudo wget https://wordpress.org/latest.zip
+       
+       sudo unzip latest.zip
+       
+       
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%2010.57.17%20PM.png"/>
 
 
