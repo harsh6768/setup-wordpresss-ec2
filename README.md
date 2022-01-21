@@ -88,7 +88,7 @@ Go to wordpress website to download
 https://wordpress.org/download/
 
 
-<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%206.51.46%20PM.png"/>
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%2010.29.22%20PM.png"/>
 
 
 Double click or right click on download button to get the option and copy the copy link address
