@@ -31,7 +31,8 @@ https://github.com/harsh6768/deploy-in-ec2
        or 
        
        sudo apt-get install mysql-server
-       
-          
+        
+     
+ <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%205.26.16%20PM.png"/>
           
        
