@@ -126,4 +126,8 @@ You have copied all the data of wordpress It you see the apache server's default
 
 ### You need to delete index.html  so that you can see the wordpress 
 
+      sudo rm -rf index.html 
+    
 
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%2011.30.13%20PM.png"/>
+    
