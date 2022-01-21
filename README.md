@@ -105,4 +105,15 @@ Run below command to download wget and unzip to donwload wordpress and unzip it.
        
 <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%2010.57.17%20PM.png"/>
 
+### Copy content of wordpress into the apache server /var/www/html file 
+
+       sudo cp -r wordpress/* /var/www/html/
+       
+       -r  : for recursive copy
+       
+### Modify the ownership of all the file inside /var/www/html/ to user www-data:www-data 
+
+       sudo chown www-data:www-data -R  /var/www/html/ 
+    
+       -R : for recursive 
 
