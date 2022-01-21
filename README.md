@@ -66,4 +66,9 @@ https://github.com/harsh6768/deploy-in-ec2
               
  
  <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-21%20at%206.36.13%20PM.png"/>
+ 
+   
+   Restart mysql database
+   
+       sudo systemctl  restart mysql
        
