@@ -228,3 +228,8 @@ Now you go to the web browser using your EC2 public ip address ,you will be able
      
 <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.07.26%20PM.png"/>
  
+ 
+### Now workpress website will look the as the earlier ,visit the PUBLIC_IP of ec2 instance 
+
+
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.27.35%20PM.png"/>
