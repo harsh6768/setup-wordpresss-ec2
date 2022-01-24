@@ -218,5 +218,13 @@ Now you go to the web browser using your EC2 public ip address ,you will be able
    <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.09.28%20PM.png"/>
    
    
-   
+### Step 5. Update the ip in wp_options tables;
+
+     
+           update wp_options set option_value="http://PUBLIC_IP" where option_id=1;
+           
+           update wp_options set option_value="http://PUBLIC_IP" where option_id=2;
+           
+     
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.09.28%20PM.png"/>
  
