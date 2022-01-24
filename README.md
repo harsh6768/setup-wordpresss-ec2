@@ -226,5 +226,5 @@ Now you go to the web browser using your EC2 public ip address ,you will be able
            update wp_options set option_value="http://PUBLIC_IP" where option_id=2;
            
      
-<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.09.28%20PM.png"/>
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.07.26%20PM.png"/>
  
