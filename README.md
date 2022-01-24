@@ -190,3 +190,33 @@ Now you go to the web browser using your EC2 public ip address ,you will be able
  
  <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-22%20at%2012.31.13%20AM.png"/>
  
+
+
+## If You have stopped the ec2 for any reason and again start the Instance then you won't see the styling and other functionality to you as IP has been changed now. To fix this issue we need to add the new ip to the mysql database.
+
+   ### Step 1 . login to mysql database .
+              
+               sudo mysql 
+               
+               or 
+               
+               sudo mysql -u root -p
+               
+  ### Step 2.  check databases
+  
+              show databases;
+              
+ ### Step 3.  Select database ;
+ 
+             use wordpress;      //this is the datbase that we have crated earlier
+ 
+ ### Step 4. Show all the tables in databases;
+ 
+            show tables;
+            
+            
+   <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.09.28%20PM.png"/>
+   
+   
+   
+ 
