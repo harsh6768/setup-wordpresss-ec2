@@ -242,12 +242,12 @@ Now you go to the web browser using your EC2 public ip address ,you will be able
    
 <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.31.14%20PM.png"/>
 
-
-<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.30.19%20PM.png"/>
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.30.29%20PM.png"/>
 
   ### Step 2. Create Record
 
-<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.30.29%20PM.png"/>
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.30.19%20PM.png"/>
+
 
 
 
