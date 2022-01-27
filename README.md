@@ -233,3 +233,17 @@ Now you go to the web browser using your EC2 public ip address ,you will be able
 
 
 <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.27.35%20PM.png"/>
+
+
+##  AWS ROUTE 53  to connect ip with domain
+
+  
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.30.19%20PM.png"/>
+
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.30.29%20PM.png"/>
+
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.31.14%20PM.png"/>
+
+
+
+
