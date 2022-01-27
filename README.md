@@ -235,7 +235,7 @@ Now you go to the web browser using your EC2 public ip address ,you will be able
 <img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/Screenshot%202022-01-24%20at%208.27.35%20PM.png"/>
 
 
-##  AWS ROUTE 53  to connect ip with domain
+##  AWS ROUTE 53 (DNS Server)  to connect ip with domain
 
 
    ### Step 1. Create Hosted Zone 
@@ -250,6 +250,17 @@ Now you go to the web browser using your EC2 public ip address ,you will be able
 
 
 
+##  Setting up EC2 public IP and CNAME got from the AWS route 53 .
 
+  
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/bigrock1.png"/>
+
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/bigrock2.png"/>
+
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/bigrock3.png"/>
+
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/bigrock4.png"/>
+
+<img src="https://github.com/harsh6768/setup-wordpresss-ec2/blob/main/Screenshots/bigrock5.png"/>
 
 
